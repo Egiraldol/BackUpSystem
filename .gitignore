@@ -1,0 +1,28 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+env/
+
+# IDEs
+.vscode/
+.idea/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Encrypted backups or large files (opcional)
+*.enc
+
+# Google Drive credentials (no subir)
+client_secrets.json
+
+# Logs
+*.log
+
+# Fragment files temporales
+*.part*
