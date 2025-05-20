@@ -43,6 +43,7 @@ Este proyecto es un sistema de respaldo seguro que permite seleccionar múltiple
 ## Uso
 
 Ejecuta el programa con:
+
     ```
     python backup_system/main.py
     ```
@@ -55,7 +56,6 @@ Para subir a Google Drive, configura las credenciales en el archivo client_secre
 
 ## Estructura del proyecto
 
-    ```
     backup_system/
     ├── main.py
     ├── core/
@@ -66,4 +66,4 @@ Para subir a Google Drive, configura las credenciales en el archivo client_secre
     ├── .gitignore
     ├── README.md
     └── client_secrets.json
-    ```
+
