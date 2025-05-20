@@ -44,9 +44,8 @@ Este proyecto es un sistema de respaldo seguro que permite seleccionar múltiple
 
 Ejecuta el programa con:
 
-    ```
     python backup_system/main.py
-    ```
+
 
 Sigue el menú para crear backups, encriptar, copiar a disco externo, subir a Google Drive, fragmentar o restaurar backups.
 
