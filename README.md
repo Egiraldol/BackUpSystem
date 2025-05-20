@@ -43,10 +43,7 @@ Este proyecto es un sistema de respaldo seguro que permite seleccionar múltiple
 ## Uso
 
 Ejecuta el programa con:
-
-    ```bash
     python backup_system/main.py
-    ```
 
 Sigue el menú para crear backups, encriptar, copiar a disco externo, subir a Google Drive, fragmentar o restaurar backups.
 
@@ -56,13 +53,15 @@ Para subir a Google Drive, configura las credenciales en el archivo client_secre
 
 ## Estructura del proyecto
 
-backup_system/
-├── main.py
-├── core/
-├── encryption/
-├── storage/
-├── restore/
-├── requirements.txt
-├── .gitignore
-├── README.md
-└── client_secrets.json
+    ```bash
+    backup_system/
+    ├── main.py
+    ├── core/
+    ├── encryption/
+    ├── storage/
+    ├── restore/
+    ├── requirements.txt
+    ├── .gitignore
+    ├── README.md
+    └── client_secrets.json
+    ```
